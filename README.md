@@ -5,6 +5,9 @@ A Professional Data Engineer enables data-driven decision making by collecting, 
 The Professional Data Engineer exam assesses your ability to:
 
 • Design data processing systems
+
 • Build and operationalize data processing systems
+
 • Operationalize machine learning models
+
 • Ensure solution quality
