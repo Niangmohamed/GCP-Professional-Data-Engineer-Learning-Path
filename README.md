@@ -4,84 +4,85 @@ A Professional Data Engineer enables data-driven decision making by collecting, 
 
 The Professional Data Engineer exam assesses your ability to:
 
-• Design data processing systems
+1 Design data processing systems
 
-• Build and operationalize data processing systems
+2 Build and operationalize data processing systems
 
-• Operationalize machine learning models
+3 Operationalize machine learning models
 
-• Ensure solution quality
+4 Ensure solution quality
+
 
 The Professional Data Engineer Learning Path cover the following chapters: 
 
- • Google Cloud Platform Big Data and Machine Learning Fundamentals (On-demand Training)
+ 1 Google Cloud Platform Big Data and Machine Learning Fundamentals (On-demand Training)
  
-   •• Google Cloud Platform Big Data and Machine Learning Fundamentals
+   1.1 Google Cloud Platform Big Data and Machine Learning Fundamentals
 
- • Data Engineering on Google Cloud Platform (On-demand Training)
+ 2 Data Engineering on Google Cloud Platform (On-demand Training)
  
-   •• Google Cloud Platform Big Data and Machine Learning Fundamentals
+   2.1 Google Cloud Platform Big Data and Machine Learning Fundamentals
    
-   •• Modernizing Data Lakes and Data Warehouses with GCP
+   2.2 Modernizing Data Lakes and Data Warehouses with GCP
    
-   •• Building Batch Data Pipelines on GCP
+   2.3 Building Batch Data Pipelines on GCP
    
-   •• Building Resilient Streaming Analytics Systems on GCP
+   2.4 Building Resilient Streaming Analytics Systems on GCP
    
-   •• Smart Analytics, Machine Learning, and AI on GCP
+   2.5 Smart Analytics, Machine Learning, and AI on GCP
 
- • Create and Manage Cloud Resources (Qwiklabs Quest)
+ 4 Create and Manage Cloud Resources (Qwiklabs Quest)
  
-   •• A Tour of Google Cloud Hands-on Labs
+   4.1 A Tour of Google Cloud Hands-on Labs
    
-   •• Creating a Virtual Machine
+   4.2 Creating a Virtual Machine
    
-   •• Compute Engine: Qwik Start - Windows
+   4.2 Compute Engine: Qwik Start - Windows
    
-   •• Getting Started with Cloud Shell and gcloud
+   4.3 Getting Started with Cloud Shell and gcloud
    
-   •• Kubernetes Engine: Qwik Start
+   4.4 Kubernetes Engine: Qwik Start
    
-   •• Set Up Network and HTTP Load Balancers
+   4.5 Set Up Network and HTTP Load Balancers
    
-   •• Create and Manage Cloud Resources: Challenge Lab
+   4.6 Create and Manage Cloud Resources: Challenge Lab
 
- • Perform Foundational Data, ML, and AI Tasks in Google Cloud (Qwiklabs Quest)
+ 5 Perform Foundational Data, ML, and AI Tasks in Google Cloud (Qwiklabs Quest)
  
-   •• AI Platform: Qwik Start
+   5.1 AI Platform: Qwik Start
    
-   •• Dataprep: Qwik Start
+   5.2 Dataprep: Qwik Start
    
-   •• Dataflow: Qwik Start - Templates
+   5.3 Dataflow: Qwik Start - Templates
    
-   •• Dataflow: Qwik Start - Python
+   5.3 Dataflow: Qwik Start - Python
    
-   •• Dataproc: Qwik Start - Console
+   5.4 Dataproc: Qwik Start - Console
    
-   •• Dataproc: Qwik Start - Command Line
+   5.4 Dataproc: Qwik Start - Command Line
    
-   •• Cloud Natural Language API: Qwik Start
+   5.6 Cloud Natural Language API: Qwik Start
    
-   •• Google Cloud Speech API: Qwik Start
+   5.7 Google Cloud Speech API: Qwik Start
    
-   •• Video Intelligence: Qwik Start
+   5.8 Video Intelligence: Qwik Start
    
-   •• Perform Foundational Data, ML, and AI Tasks in Google Cloud: Challenge Lab
+   5.9 Perform Foundational Data, ML, and AI Tasks in Google Cloud: Challenge Lab
 
- • Engineer Data in Google Cloud (Qwiklabs Quest)
+ 6 Engineer Data in Google Cloud (Qwiklabs Quest)
  
-   •• Creating a Data Transformation Pipeline with Cloud Dataprep
+   6.1 Creating a Data Transformation Pipeline with Cloud Dataprep
    
-   •• Building an IoT Analytics Pipeline on Google Cloud
+   6.2 Building an IoT Analytics Pipeline on Google Cloud
    
-   •• ETL Processing on Google Cloud Using Dataflow and BigQuery
+   6.3 ETL Processing on Google Cloud Using Dataflow and BigQuery
    
-   •• Predict Visitor Purchases with a Classification Model in BQML
+   6.4 Predict Visitor Purchases with a Classification Model in BQML
    
-   •• Cloud Composer: Copying BigQuery Tables Across Different Locations
+   6.5 Cloud Composer: Copying BigQuery Tables Across Different Locations
    
-   •• Engineer Data in Google Cloud: Challenge Lab
+   6.6 Engineer Data in Google Cloud: Challenge Lab
 
- • Professional Data Engineer Exam (Certification)
+ 8 Professional Data Engineer Exam (Certification)
  
-   •• Professional Data Engineer
+   8.1 Professional Data Engineer
